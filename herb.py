@@ -153,7 +153,7 @@ def start_in():
                 # return string
                 return str1.join(x)
 
-
+            # this has what you are going to be saying to call the functions
             diction = {
                 'what is': wiki,
                 'who is': wiki,
